@@ -35,3 +35,15 @@ you to patch it, the updated file is included in the prepared packages.
 
 For additional information, see the 'Wiki' for this repository.
 
+
+
+<p align="center">* DERIVED OPEN SOURCE SOFTWARE *</p>
+
+Portions of this software have been modified from Arduino source that is
+covered by either [L]GPLv2 or [L]GPLv3.  The licensing details are generally
+contained within the files themselves.  However, if there are no licensing
+specifications, it should be treated as being the same as for the Arduino 1.06
+environment (and later, as appropriate).  It is also available free of charge.
+
+For more information, see http://arduino.cc/ and relevant source files.
+
