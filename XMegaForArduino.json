@@ -60,22 +60,10 @@
           "url": "https://raw.githubusercontent.com/XMegaForArduino/IDE/master/XMegaForArduino.0.9.0.tbz",
           "checksum": "SHA-256:658004f4d037eba9a0f7b7ef04560e93385960d1d901f49913c4337e6cc83071",
           "name": "XMegaForArduino XMEGA Boards",
-          "version": "0.9.0",
+          "version": "0.9.1",
           "architecture": "avr",
           "archiveFileName": "XMegaForArduino.0.9.0.tbz",
           "size": "219923",
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "version": "4.8.1-arduino5",
-              "name": "avr-gcc"
-            },
-            {
-              "packager": "arduino",
-              "version": "6.0.1-arduino5",
-              "name": "avrdude"
-            }
-          ],
           "boards": [
             {
               "name": "ATXMega64D4"
