@@ -1,0 +1,108 @@
+{
+  "packages": [
+    {
+      "maintainer": "XMegaForArduino",
+      "help": {
+        "online": "https://github.com/XMegaForArduino"
+      },
+      "websiteURL": "https://github.com/XMegaForArduino",
+      "platforms": [
+        {
+          "category": "XMegaForArduino",
+          "help": {
+            "online": "https://github.com/XMegaForArduino"
+          },
+          "url": "https://raw.githubusercontent.com/XMegaForArduino/IDE/master/XMegaForArduino.0.9.0.tbz",
+          "checksum": "SHA-256:658004f4d037eba9a0f7b7ef04560e93385960d1d901f49913c4337e6cc83071",
+          "name": "XMegaForArduino XMEGA Boards",
+          "version": "0.9.0",
+          "architecture": "avr",
+          "archiveFileName": "XMegaForArduino.0.9.0.tbz",
+          "size": "219923",
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "version": "4.8.1-arduino5",
+              "name": "avr-gcc"
+            },
+            {
+              "packager": "arduino",
+              "version": "6.0.1-arduino5",
+              "name": "avrdude"
+            }
+          ],
+          "boards": [
+            {
+              "name": "ATXMega64D4"
+            },
+            {
+              "name": "ATXMega32E5"
+            },
+            {
+              "name": "ATXMega128A1"
+            },
+            {
+              "name": "ATXMega128A1U"
+            },
+            {
+              "name": "CC0 ATXMega32E5 breakout"
+            },
+            {
+              "name": "Rock Solid XMega 128A"
+            }
+          ]
+        },
+        {
+          "category": "XMegaForArduino",
+          "help": {
+            "online": "https://github.com/XMegaForArduino"
+          },
+          "url": "https://raw.githubusercontent.com/XMegaForArduino/IDE/master/XMegaForArduino.0.9.0.tbz",
+          "checksum": "SHA-256:658004f4d037eba9a0f7b7ef04560e93385960d1d901f49913c4337e6cc83071",
+          "name": "XMegaForArduino XMEGA Boards",
+          "version": "0.9.0",
+          "architecture": "avr",
+          "archiveFileName": "XMegaForArduino.0.9.0.tbz",
+          "size": "219923",
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "version": "4.8.1-arduino5",
+              "name": "avr-gcc"
+            },
+            {
+              "packager": "arduino",
+              "version": "6.0.1-arduino5",
+              "name": "avrdude"
+            }
+          ],
+          "boards": [
+            {
+              "name": "ATXMega64D4"
+            },
+            {
+              "name": "ATXMega32E5"
+            },
+            {
+              "name": "ATXMega128A1"
+            },
+            {
+              "name": "ATXMega128A1U"
+            },
+            {
+              "name": "CC0 ATXMega32E5 breakout"
+            },
+            {
+              "name": "Rock Solid XMega 128A"
+            }
+          ]
+        }
+       }
+      ],
+      "tools": [],
+      "email": "XMegaForArduino@github.com",
+      "name": "XMegaForArduino"
+    }
+  ]
+}
+
