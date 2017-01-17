@@ -1,15 +1,21 @@
 {
-  "packages": [
+  "packages":
+  [
     {
       "maintainer": "XMegaForArduino",
-      "help": {
+      "help":
+      {
         "online": "https://github.com/XMegaForArduino"
       },
       "websiteURL": "https://github.com/XMegaForArduino",
-      "platforms": [
+      "email": "XMegaForArduino@github.com",
+      "name": "XMegaForArduino",
+      "platforms":
+      [
         {
           "category": "XMegaForArduino",
-          "help": {
+          "help":
+          {
             "online": "https://github.com/XMegaForArduino"
           },
           "url": "https://raw.githubusercontent.com/XMegaForArduino/IDE/master/XMegaForArduino.0.9.0.tbz",
@@ -19,7 +25,8 @@
           "architecture": "avr",
           "archiveFileName": "XMegaForArduino.0.9.0.tbz",
           "size": "219923",
-          "toolsDependencies": [
+          "toolsDependencies":
+          [
             {
               "packager": "arduino",
               "version": "4.8.1-arduino5",
@@ -31,7 +38,8 @@
               "name": "avrdude"
             }
           ],
-          "boards": [
+          "boards":
+          [
             {
               "name": "ATXMega64D4"
             },
@@ -54,7 +62,8 @@
         },
         {
           "category": "XMegaForArduino",
-          "help": {
+          "help":
+          {
             "online": "https://github.com/XMegaForArduino"
           },
           "url": "https://raw.githubusercontent.com/XMegaForArduino/IDE/master/XMegaForArduino.0.9.0.tbz",
@@ -64,7 +73,8 @@
           "architecture": "avr",
           "archiveFileName": "XMegaForArduino.0.9.0.tbz",
           "size": "219923",
-          "boards": [
+          "boards":
+          [
             {
               "name": "ATXMega64D4"
             },
@@ -85,11 +95,8 @@
             }
           ]
         }
-       }
       ],
-      "tools": [],
-      "email": "XMegaForArduino@github.com",
-      "name": "XMegaForArduino"
+      "tools": []
     }
   ]
 }
