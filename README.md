@@ -67,6 +67,8 @@ environment (and later, as appropriate).  It is also available free of charge.
 
 For more information, including trademarks and copyrights and licenses, see
 
-&nbsp;&nbsp;&nbsp;&nbsp;http://arduino.cc/ and relevant source files.
+&nbsp;&nbsp;&nbsp;&nbsp;http://arduino.cc/
+
+as well as the copyright and licenses for the relevant source files.
 
 
