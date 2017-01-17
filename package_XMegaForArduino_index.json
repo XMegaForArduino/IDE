@@ -54,12 +54,12 @@
           {
             "online": "https://github.com/XMegaForArduino"
           },
-          "url": "https://raw.githubusercontent.com/XMegaForArduino/IDE/master/XMegaForArduino-0.9.1.tbz",
+          "url": "https://raw.githubusercontent.com/XMegaForArduino/IDE/master/XMegaForArduino-0.9.1.tar.bz2",
           "checksum": "SHA-256:cdec5820a52330d4141bba96470f065a0193b4cac7a05ad249e0e43640cc559d",
           "name": "XMegaForArduino XMEGA Boards",
           "version": "0.9.1",
           "architecture": "avr",
-          "archiveFileName": "XMegaForArduino-0.9.1.tbz",
+          "archiveFileName": "XMegaForArduino-0.9.1.tar.bz2",
           "size": "219964",
           "toolsDependencies": [],
           "boards":
