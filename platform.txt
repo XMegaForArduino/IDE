@@ -89,7 +89,7 @@ tools.avrdude.path={runtime.tools.avrdude.path}
 tools.avrdude.cmd.path={path}/bin/avrdude
 # NOTE:  change to avrdude.conf path - using the one specified by this hardware package
 #        THIS is a LOT 'nicer' than overwriting the system file.  Some packages actually do that...
-tools.avrdude.config.path={sketchbook.path}/hardware/XMegaForArduino/avr/avrdude.conf
+tools.avrdude.config.path={runtime.platform.path}/avrdude.conf
 
 tools.avrdude.upload.params.verbose=-v
 tools.avrdude.upload.params.quiet=-q -q
