@@ -11,6 +11,20 @@ project.  Whenever a major release is done, a new snapshot will be created,
 and updates will be made to the JSON file (for the package manager).
 
 
+The URL for the package manager is:
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/XMegaForArduino/IDE/master/package_XMegaForArduino_index.json">
+URL for package_XMegaForArduino_index.json</a>
+
+
+There are two sets of archives for each version.  One is used by the JSON file
+and has a name similar to XMegaForArduino-#.#.#.tar.bz2 .
+
+The other has a name similar to XMegaForArduino-#.#.#.snapshot.txz and is an
+image of what should be extracted into ~/sketchbook/hardware , in order to
+install the board package manually.
+
+
 SOME of the hardware supported by the XMegaForArduino project may not be
 supported by the compilers and tools.  For example, the atxmega64d4 already
 has support in avr-gcc, avr-binutils, and avr-libc.  However, the
