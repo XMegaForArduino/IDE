@@ -130,8 +130,11 @@ xmega128a1u.bootloader.lock_bits=0xBF
 xmega128a1u.build.mcu=atxmega128a1u
 xmega128a1u.build.f_cpu=32000000L
 xmega128a1u.build.core=xmega
-xmega128a1u.build.variant=xmega128a1
+xmega128a1u.build.variant=xmega128a1u
 xmega128a1u.build.board=XMEGA_128A1U
+# see https://raw.githubusercontent.com/arduino/ArduinoISP/master/usbdrv/USB-IDs-for-free.txt
+xmega128a1u.build.vid=0x16c0
+xmega128a1u.build.pid=0x05e1
 
 
 ##############################################################
