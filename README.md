@@ -72,3 +72,8 @@ For more information, including trademarks and copyrights and licenses, see
 as well as the copyright and licenses for the relevant source files.
 
 
+Information on extending the Arduion IDE can be found
+<a href="https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification">
+HERE</a>.
+
+
